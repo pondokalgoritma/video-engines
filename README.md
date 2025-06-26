@@ -20,8 +20,8 @@ Download the latest versions from the [Releases](https://github.com/pondokalgori
 | ffmpeg  | Windows  | `ffmpeg.exe`     | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg.exe)   |
 | yt-dlp  | Mac OS   | `yt-dlp_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/yt-dlp_macos) |
 | ffmpeg  | Mac OS   | `ffmpeg_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg_macos) |
-| yt-dlp  | Linux    | `yt-dlp_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/yt-dlp_linux) |
-| ffmpeg  | Linux    | `ffmpeg_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg_linux) |
+| yt-dlp  | Linux    | `yt-dlp_linux`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/yt-dlp_linux) |
+| ffmpeg  | Linux    | `ffmpeg_linux`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg_linux) |
 
 
 ---
