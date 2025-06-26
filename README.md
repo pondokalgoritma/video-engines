@@ -1,4 +1,4 @@
-# Video Engine
+# Video Engines
 
 This repository contains precompiled binary engines such as `yt-dlp` and `ffmpeg` used by various applications developed by Pondok Algoritma.
 
@@ -16,12 +16,12 @@ Download the latest versions from the [Releases](https://github.com/pondokalgori
 
 | Engine  | Platform | Filename        | Direct Download |
 |---------|----------|------------------|-----------------|
-| yt-dlp  | Windows  | `yt-dlp.exe`     | [Download](https://github.com/pondokalgoritma/video-engine/releases/latest/download/yt-dlp.exe)   |
-| ffmpeg  | Windows  | `ffmpeg.exe`     | [Download](https://github.com/pondokalgoritma/video-engine/releases/latest/download/ffmpeg.exe)   |
-| yt-dlp  | Mac OS   | `yt-dlp_macos`   | [Download](https://github.com/pondokalgoritma/video-engine/releases/latest/download/yt-dlp_macos) |
-| ffmpeg  | Mac OS   | `ffmpeg_macos`   | [Download](https://github.com/pondokalgoritma/video-engine/releases/latest/download/ffmpeg_macos) |
-| yt-dlp  | Linux    | `yt-dlp_macos`   | [Download](https://github.com/pondokalgoritma/video-engine/releases/latest/download/yt-dlp_linux) |
-| ffmpeg  | Linux    | `ffmpeg_macos`   | [Download](https://github.com/pondokalgoritma/video-engine/releases/latest/download/ffmpeg_linux) |
+| yt-dlp  | Windows  | `yt-dlp.exe`     | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/yt-dlp.exe)   |
+| ffmpeg  | Windows  | `ffmpeg.exe`     | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg.exe)   |
+| yt-dlp  | Mac OS   | `yt-dlp_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/yt-dlp_macos) |
+| ffmpeg  | Mac OS   | `ffmpeg_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg_macos) |
+| yt-dlp  | Linux    | `yt-dlp_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/yt-dlp_linux) |
+| ffmpeg  | Linux    | `ffmpeg_macos`   | [Download](https://github.com/pondokalgoritma/video-engines/releases/latest/download/ffmpeg_linux) |
 
 
 ---
