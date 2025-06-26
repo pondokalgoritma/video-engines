@@ -12,7 +12,7 @@ These binaries are hosted here to enable automatic downloading by applications l
 
 ## Downloads
 
-Download the latest versions from the [Releases](https://github.com/pondokalgoritma/video-engines/releases) tab.
+Download the latest versions from the [Releases](https://github.com/pondokalgoritma/video-engine/releases) tab.
 
 | Engine  | Platform | Filename        | Direct Download |
 |---------|----------|------------------|-----------------|
